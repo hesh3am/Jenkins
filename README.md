@@ -17,6 +17,8 @@ so that humans can spend their time doing things machines cannot.
 
 # What to Use Jenkins for and When to Use It
 
+docker run -p 7777:8080 -p 50000:50000 jenkins/jenkins
+
 Use Jenkins to automate your development workflow, so you can focus on work that matters most. Jenkins is commonly used for:
 
 - Building projects
