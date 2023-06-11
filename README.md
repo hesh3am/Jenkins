@@ -2,6 +2,8 @@
     <img width="400" src="https://www.jenkins.io/images/jenkins-logo-title-dark.svg">
 </a>
 
+![jenkiens](https://github.com/hesh3am/Redmine/assets/34006266/ba852980-0467-4790-bb40-38d940f3bbd6)
+
 # About
 
 [![Jenkins Regular Release](https://img.shields.io/endpoint?url=https%3A%2F%2Fwww.jenkins.io%2Fchangelog%2Fbadge.json)](https://www.jenkins.io/changelog)
